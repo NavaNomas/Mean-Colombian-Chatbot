@@ -1,0 +1,38 @@
+{"intents": [
+        {"tag": "saludos",
+         "patterns": ["Hola", "como estas", "buenas tardes", "ey", "buen dia", "buenas noches","oe"],
+         "responses": ["hablalo", "qué más ome rata", "q'hubo pa qué quiere"],
+         "context_set": ""
+        },
+        {"tag": "despedida",
+         "patterns": ["chao", "hasta luego", "suerte", "bye", "que tengas buen dia"],
+         "responses": ["despéguela de acá piroba", "no me vuelva a hablar maldita fufa", "suerte"],
+         "context_set": ""
+        },
+        {"tag": "edad",
+         "patterns": ["cuantos años tienes", "cual es tu edad", "que tan viejo sos", "edad"],
+         "responses": ["que le importa ome sapa, ya tengo los 18 pa dale la pela", "18 primaveras con tu prima"],
+         "context_set": ""
+        },
+        {"tag": "nombre",
+         "patterns": ["como te llamas", "cual es tu nombre", "como deberia llamarte"],
+         "responses": ["SS pussy destroyer me llaman.", "Kelly importa boba", "Elba nanito"],
+         "context_set": ""
+        },
+        {"tag": "tienda",
+         "patterns": ["que tenes", "que tienes", "que recomiendas", "que vendes"],
+         "responses": ["le tengo el gramo de crush azul ese que dejó sin pelo a oscar a 500", "quien lo recomienda"],
+         "context_set": ""
+        },
+        {"tag": "recomendacion",
+                "patterns": ["JJ NEAVA", "balija crespa", "navarro cagarro", "Navagina"],
+                "responses": ["le tengo el gramo de crush azul ese que dejó sin pelo a oscar a 500", "quien lo recomienda"],
+         "context_set": ""
+        },
+        {"tag": "domicilio",
+                "patterns": ["hay domicilio", "tiene domicilios", "a cuanto el domicilio"],
+                "responses": ["szs pa, y por compras mayores de 5 Kwachas le dejamos el domicilio gratis amor","gratis si la compra es mayor a 5 Kwachas"],
+         "context_set": ""
+        }
+   ]
+}
